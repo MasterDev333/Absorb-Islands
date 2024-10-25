@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -12,7 +21,7 @@
       "type": "general-content",
       "settings": {
         "title": "ENJOY YOUR STAY",
-        "content": "<p>Here for the people who love to be in and out of the water, just like us.<\/p>",
+        "content": "<p>Here for the people who love to be in and out of the water, just like us.</p>",
         "style": "style1",
         "vertical_padding": "small"
       }
@@ -23,37 +32,37 @@
         "impact_g7ad8p": {
           "type": "cell",
           "settings": {
-            "image": "shopify:\/\/shop_images\/pexels-mark-stebnicki-13924868_2.png",
+            "image": "shopify://shop_images/pexels-mark-stebnicki-13924868_2.png",
             "mobile_image_overlay": "no",
             "title": "Fair Trade",
-            "content": "<p>We are proud to be fair-trade certified and only partner with factories that prioritize their workers. <\/p>"
+            "content": "<p>We are proud to be fair-trade certified and only partner with factories that prioritize their workers. </p>"
           }
         },
         "impact_FPUQUF": {
           "type": "cell",
           "settings": {
-            "image": "shopify:\/\/shop_images\/12-pinksandswrinkledetail.jpg",
+            "image": "shopify://shop_images/12-pinksandswrinkledetail.jpg",
             "mobile_image_overlay": "no",
             "title": "Our Fabric",
-            "content": "<p>Our <em>patent-pending<\/em> Dri-Rite™ fabric technology is antimicrobial with moisture-wicking finish to speed up after-water dry time.  <\/p>"
+            "content": "<p>Our <em>patent-pending</em> Dri-Rite™ fabric technology is antimicrobial with moisture-wicking finish to speed up after-water dry time.  </p>"
           }
         },
         "cell_WcXPnP": {
           "type": "cell",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Photo_Oct_10_2023_6_29_27_AM_32d545d5-852a-4c25-8e04-a846f17dbc70.jpg",
+            "image": "shopify://shop_images/Photo_Oct_10_2023_6_29_27_AM_32d545d5-852a-4c25-8e04-a846f17dbc70.jpg",
             "mobile_image_overlay": "no",
             "title": "Less Washing. More Splashing.",
-            "content": "<p>Test backed by no wash-tests for months at the beach, pool and post-shower.  The result = <em>no smell<\/em>.<\/p>"
+            "content": "<p>Test backed by no wash-tests for months at the beach, pool and post-shower.  The result = <em>no smell</em>.</p>"
           }
         },
         "cell_NBMFwz": {
           "type": "cell",
           "settings": {
-            "image": "shopify:\/\/shop_images\/glassine_bag_4b2eb5e6-f1a2-4ded-9ab6-4d635910a14e.jpg",
+            "image": "shopify://shop_images/glassine_bag_4b2eb5e6-f1a2-4ded-9ab6-4d635910a14e.jpg",
             "mobile_image_overlay": "yes",
             "title": "Our Packaging",
-            "content": "<p>From our product bags to our shipping mailers. We use only recyclable materials. <\/p>"
+            "content": "<p>From our product bags to our shipping mailers. We use only recyclable materials. </p>"
           }
         }
       },
@@ -72,12 +81,12 @@
       "settings": {
         "type": "general",
         "margin_bottom": "yes",
-        "image": "shopify:\/\/shop_images\/Photo_Oct_11_2023_5_53_06_AM_6cd68982-39d4-4675-bd3b-b9d752d0b824.jpg",
+        "image": "shopify://shop_images/Photo_Oct_11_2023_5_53_06_AM_6cd68982-39d4-4675-bd3b-b9d752d0b824.jpg",
         "rounded": "yes",
         "image_credit": "",
         "subheading": "",
         "title": "Welcome to Absorb Island",
-        "content": "<p>We are modernizing the toweling industry by changing its very fabric. Our revolutionary Dri-Rite™ <em>patent-pending<\/em> fabric technology is the first dual-knit, antimicrobial terry with moisture-wicking finish to speed up after-water dry time. Founded and run by women who love to vacation, Absorb Island is on a mission to change the way people dry after the pool, ocean, lake or gym.<\/p>",
+        "content": "<p>We are modernizing the toweling industry by changing its very fabric. Our revolutionary Dri-Rite™ <em>patent-pending</em> fabric technology is the first dual-knit, antimicrobial terry with moisture-wicking finish to speed up after-water dry time. Founded and run by women who love to vacation, Absorb Island is on a mission to change the way people dry after the pool, ocean, lake or gym.</p>",
         "alignment": "left",
         "text_alignment": "top",
         "mobile_text_alignment": "bottom",
@@ -89,12 +98,12 @@
       "settings": {
         "type": "general",
         "margin_bottom": "no",
-        "image": "shopify:\/\/shop_images\/goat1.jpg",
+        "image": "shopify://shop_images/IMG_6027_2_copy.jpg",
         "rounded": "yes",
         "image_credit": "",
         "subheading": "",
-        "title": "Meet Terry",
-        "content": "<p>Why a goat as our mascot?  Very simple, we are the G.O.A.T, the greatest of all terry. Also, like goats, we are curious, highly intelligent and incredibly playful. Making him an integral part of the Absorb Island story.<\/p>",
+        "title": "Fair Trade™ Certified Factories",
+        "content": "<p>When envisioning Absorb Island, it was always about doing what was “right” in the clothing industry.  When developing the product, Our Founder wanted to make a product that was sustainable and long lasting, but she also wanted to<br/>create a company that takes care of its workers. That is why she has partnered only with Fair Trade™ factories that strive to honor every person who touches the product through every step of the process. </p><p>Our Founder is intentional with every decision and has such a clear vision for the brand. </p>",
         "alignment": "right",
         "text_alignment": "top",
         "mobile_text_alignment": "bottom",
@@ -104,7 +113,7 @@
     "featured_collection_UzjGXV": {
       "type": "featured-collection",
       "settings": {
-        "title": "New <em>Arrivals<\/em>",
+        "title": "New <em>Arrivals</em>",
         "heading_size": "h1",
         "description": "",
         "show_description": true,
@@ -133,10 +142,10 @@
       "type": "large-content-image",
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/Photo-Oct-11-2023_-5-33-37-AM.jpg",
+        "image": "shopify://shop_images/Photo-Oct-11-2023_-5-33-37-AM.jpg",
         "title": "Absorb Island Vacations",
-        "content": "<p>Our dual-knit terry with Dri-Rite technology is the first anti-odor, antimicrobial fabric with moisture-wicking finish to achieve optimal dry time. Quality and durability is at the forefront of our product.<\/p>",
-        "button_url": "shopify:\/\/collections\/all",
+        "content": "<p>Our dual-knit terry with Dri-Rite technology is the first anti-odor, antimicrobial fabric with moisture-wicking finish to achieve optimal dry time. Quality and durability is at the forefront of our product.</p>",
+        "button_url": "shopify://collections/all",
         "button_text": "Shop Now"
       }
     },
@@ -146,33 +155,33 @@
         "template--17210911850717__59db039f-40fe-4b24-ba34-705571e24221-impact-1": {
           "type": "impact",
           "settings": {
-            "image": "shopify:\/\/shop_images\/pexels-mark-stebnicki-13924868_2.png",
+            "image": "shopify://shop_images/pexels-mark-stebnicki-13924868_2.png",
             "title": "Fairtrade",
-            "content": "<p>We are proud to be fair-trade certified and the woman-owned factories we work with are too.<\/p>"
+            "content": "<p>We are proud to be fair-trade certified and the woman-owned factories we work with are too.</p>"
           }
         },
         "3504e4d2-d275-4034-ae9a-776559d835f1": {
           "type": "impact",
           "settings": {
-            "image": "shopify:\/\/shop_images\/12-pinksandswrinkledetail.jpg",
+            "image": "shopify://shop_images/12-pinksandswrinkledetail.jpg",
             "title": "Our Fabric",
-            "content": "<p>Grown without chemicals or pesticides, Absorb Island organic cotton is ethically and sustainably farmed.  <\/p>"
+            "content": "<p>Grown without chemicals or pesticides, Absorb Island organic cotton is ethically and sustainably farmed.  </p>"
           }
         },
         "0cc3984e-0e47-46d1-bd27-5c4a3b0b8103": {
           "type": "impact",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Photo_Oct_10_2023_6_29_27_AM_32d545d5-852a-4c25-8e04-a846f17dbc70.jpg",
+            "image": "shopify://shop_images/Photo_Oct_10_2023_6_29_27_AM_32d545d5-852a-4c25-8e04-a846f17dbc70.jpg",
             "title": "Less Washing More Splashing",
-            "content": "<p>Absorb Island products require \u2028less maintenance, making them \u2028more environmentally friendly. \u2028Our Dri-Rite ™ and Dri-Release \u2028terry technology combines \u2028ultra-absorbent, antimicrobial fiber \u2028to promote longer product life \u2028and less machine-washing.<\/p>"
+            "content": "<p>Absorb Island products require  less maintenance, making them  more environmentally friendly.  Our Dri-Rite ™ and Dri-Release  terry technology combines  ultra-absorbent, antimicrobial fiber  to promote longer product life  and less machine-washing.</p>"
           }
         },
         "487670e9-0e4b-48d0-a2bc-01e84473806a": {
           "type": "impact",
           "settings": {
-            "image": "shopify:\/\/shop_images\/pexels-monstera-production-7794422_2.png",
+            "image": "shopify://shop_images/pexels-monstera-production-7794422_2.png",
             "title": "Our Packaging",
-            "content": "<p>Absorb Island brand packaging is \u2028100% recyclable, biodegradable, and \u2028made from naturally sourced \u2028virgin paper fiber.  <\/p>"
+            "content": "<p>Absorb Island brand packaging is  100% recyclable, biodegradable, and  made from naturally sourced  virgin paper fiber.  </p>"
           }
         }
       },
@@ -185,7 +194,7 @@
       "disabled": true,
       "settings": {
         "title": "Our Impact",
-        "content": "<p>From our fabric to our packaging, we choose sustainable solutions that promote a healthier planet. <\/p>"
+        "content": "<p>From our fabric to our packaging, we choose sustainable solutions that promote a healthier planet. </p>"
       }
     }
   },
